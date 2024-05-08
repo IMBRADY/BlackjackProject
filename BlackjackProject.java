@@ -17,10 +17,6 @@ public class BlackjackProject {
         boolean isPlay = true;
         int buyInVal;
         String temp;
-        
-        //Initialization of card deck
-
-        
 
         // Ask for player name and buy-in
 
